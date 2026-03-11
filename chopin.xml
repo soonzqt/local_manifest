@@ -10,6 +10,6 @@
    <!-- Common -->
    <project path="device/xiaomi/mt6893-common" name="xiaomi-mt6893-dev/device_xiaomi_mt6893-common" remote="hub" revision="lineage-23.2" clone-depth="1"/>
    <!-- Hardware -->
-   <project path="hardware/mediatek" name="xiaomi-mt6893-dev/hardware_mediatek" remote="hub" revision="lineage-23.0" clone-depth="1"/>
+   <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" remote="hub" revision="lineage-23.2" clone-depth="1"/>
    
 </manifest>
