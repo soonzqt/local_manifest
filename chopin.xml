@@ -8,6 +8,8 @@
    <project path="kernel/xiaomi/mt6893" name="xiaomi-mt6893-dev/kernel_xiaomi_mt6893" remote="hub" revision="lineage-23.2-ksu" clone-depth="1"/>
    <project path="vendor/xiaomi/chopin" name="xiaomi-mt6893-dev/vendor_xiaomi_chopin" remote="hub" revision="16.0" clone-depth="1"/>
    <!-- Common -->
-   <project path="device/xiaomi/mt6893-common" name="xiaomi-mt6893-dev/device_xiaomi_mt6893-common" remote="hub" revision="lineaga-23.2" clone-depth="1"/>
+   <project path="device/xiaomi/mt6893-common" name="xiaomi-mt6893-dev/device_xiaomi_mt6893-common" remote="hub" revision="lineage-23.2" clone-depth="1"/>
+   <!-- Hardware -->
+   <project path="hardware/mediatek" name="xiaomi-mt6893-dev/hardware_mediatek" remote="hub" revision="lineage-23.0 clone-depth="1"/>
    
 </manifest>
